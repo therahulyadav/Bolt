@@ -7,7 +7,6 @@ const nextConfig = {
       "img.clerk.com",
       "subdomain",
       "files.stripe.com",
-      "7sqsbvs1cn.ufs.sh",
     ],
   },
   reactStrictMode: false,

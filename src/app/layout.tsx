@@ -10,7 +10,7 @@ import "./globals.css";
 import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
-  title: "Boltshift",
+  title: "Plura",
   description: "All in one Agency Solution",
 };
 

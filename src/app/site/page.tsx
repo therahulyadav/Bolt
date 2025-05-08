@@ -44,7 +44,7 @@ const HomePage: React.FC = () => {
             </h2>
             <div className="text-muted-foreground text-center">
               <p>
-                Plura does everything possible to provide you with a convenient
+                Boltshift does everything possible to provide you with a convenient
                 tool for managing your agency.
               </p>
               <p>Here are just a few tools that may interest you.</p>
@@ -76,8 +76,8 @@ const HomePage: React.FC = () => {
           </div>
         </div>
         <BackgroundBeams />
-      </div>*/}
-    </div> 
+      </div> */}
+    </div>
   );
 };
 

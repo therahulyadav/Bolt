@@ -193,7 +193,7 @@ const SubAccountDetails: React.FC<SubAccountDetailsProps> = ({
                 <FormItem className="flex-1">
                   <FormLabel>Address</FormLabel>
                   <FormControl>
-                    <Input placeholder="12 Bombay Square" {...field} />
+                    <Input placeholder="20 Cooper Square" {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -208,7 +208,7 @@ const SubAccountDetails: React.FC<SubAccountDetailsProps> = ({
                   <FormItem className="flex-1">
                     <FormLabel>City</FormLabel>
                     <FormControl>
-                      <Input placeholder="Mumbai" {...field} />
+                      <Input placeholder="Dracut" {...field} />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -222,7 +222,7 @@ const SubAccountDetails: React.FC<SubAccountDetailsProps> = ({
                   <FormItem className="flex-1">
                     <FormLabel>State</FormLabel>
                     <FormControl>
-                      <Input placeholder="Maharastra" {...field} />
+                      <Input placeholder="Massachusetts" {...field} />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -236,7 +236,7 @@ const SubAccountDetails: React.FC<SubAccountDetailsProps> = ({
                   <FormItem className="flex-1">
                     <FormLabel>Zip Code</FormLabel>
                     <FormControl>
-                      <Input placeholder="440001" {...field} />
+                      <Input placeholder="MA 01826" {...field} />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -251,7 +251,7 @@ const SubAccountDetails: React.FC<SubAccountDetailsProps> = ({
                 <FormItem className="flex-1">
                   <FormLabel>Country</FormLabel>
                   <FormControl>
-                    <Input placeholder="India" {...field} />
+                    <Input placeholder="United States" {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
