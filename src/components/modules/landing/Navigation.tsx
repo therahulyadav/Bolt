@@ -16,7 +16,7 @@ const Navigation: React.FC<NavigationProps> = async ({}) => {
   const user = await currentUser();
 
   return (
-    <header className="absolute top-0 left-0 right-0 z-10 p-4 flex items-center justify-between">
+    <header className="absolute top-0 left-0 right-0 z-[999999] p-4 flex items-center justify-between">
       <aside className="flex items-center gap-2">
         <Image src={logoImage} width={40} height={40} alt="Plura Logo" />
         <span className="text-xl font-bold z-10">Boltshift.</span>

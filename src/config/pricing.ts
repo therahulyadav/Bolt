@@ -26,7 +26,7 @@ export const PRICING: PricingItem[] = [
     duration: "month",
     highlight: "Key features",
     features: ["Everything in Starter and Basic", "Rebilling", "24/7 Support team"],
-    priceId: "price_1OpACCFdfEv15JJw0k6lm8HC",
+    priceId: "price_1RPOPUPhb7wFQ02JsW3uh2Vk",
   },
   {
     title: "Basic",
@@ -35,6 +35,6 @@ export const PRICING: PricingItem[] = [
     duration: "month",
     highlight: "Everything in Starter",
     features: ["Everything in Starter", "Unlimited Sub accounts", "Unlimited Team members"],
-    priceId: "price_1OpACCFdfEv15JJwACWCyqW2",
+    priceId: "price_1RPOPUPhb7wFQ02JkK8UsrUY",
   },
 ];
